@@ -13,3 +13,5 @@ Features:
 - Top Recipe Recommendations: For each set of input ingredients, the system returns the top 5 most similar recipes.
 
 - Visualization: A bar chart visualizes the similarity scores of the top 5 recommended recipes based on the input ingredients.
+
+Presentation Link: https://www.canva.com/design/DAFcBNjSdKw/O8WR500eyNDZQG4E9FuKCw/edit?utm_content=DAFcBNjSdKw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
