@@ -14,4 +14,6 @@ Features:
 
 - Visualization: A bar chart visualizes the similarity scores of the top 5 recommended recipes based on the input ingredients.
 
+Dataset Link: https://www.kaggle.com/datasets/canggih/indonesian-food-recipes
+
 Presentation Link: https://www.canva.com/design/DAFcBNjSdKw/O8WR500eyNDZQG4E9FuKCw/edit?utm_content=DAFcBNjSdKw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
