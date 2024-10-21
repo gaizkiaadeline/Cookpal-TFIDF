@@ -17,3 +17,5 @@ Features:
 Dataset Link: https://www.kaggle.com/datasets/canggih/indonesian-food-recipes
 
 Presentation Link: https://www.canva.com/design/DAFcBNjSdKw/O8WR500eyNDZQG4E9FuKCw/edit?utm_content=DAFcBNjSdKw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+![PPT AI](https://github.com/user-attachments/assets/2ff0346a-f198-4f88-bb57-4828540ae4e2)
